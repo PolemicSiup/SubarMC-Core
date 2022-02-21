@@ -1,0 +1,10 @@
+main: me.polemic.main.Main
+name: SubarMC-CORE
+version: 0.1
+author: Polemic 
+
+commands:
+  itemshop-vip:
+  itemshop-kvp:
+  itemshop-mvp:
+  itemshop-sponsor:
